@@ -8,4 +8,4 @@ In the beginning, there was `Hello, World`
 
 and then other programs came...
 
-** Come and join me as I try to write some programs **
+**Come and join me as I try to write some programs**
