@@ -1,4 +1,4 @@
-## Watch Me Code
+## Watch Me Code!
 
 [twitch channel](https://yipcubed.github.io/twitch/) | [twitter](https://twitter.com/yipcubed) | [youtube](https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos)
 
